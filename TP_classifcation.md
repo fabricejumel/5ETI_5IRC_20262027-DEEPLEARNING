@@ -41,6 +41,6 @@ L'objectif principal est de tester les réseaux de neurones que je vous propose 
 
 ## Rendu
 - Le rendu doit être sous gitlab
-- L'idéal est de d'inclure en plus des markdowns habituels un ensmeble de fichiers Jupyter Notebook, hébergé sur Gitlab est associé à votre rendu complet .
+- L'idéal est de d'inclure en plus des markdowns habituels un ensemble de fichiers Jupyter Notebook, hébergé sur Gitlab est associé à votre rendu complet .
 - L'avantage du format ipynb et qu'il contient le résulat de votre derniere execution avant sauvegarde mais il peut être aussi complétement regenerer avec les codes pythons
 - Assurez-vous que votre notebook est bien documenté et que chaque section est clairement indiquée. Vous pouvez rédiger en francais ou en anglais 
