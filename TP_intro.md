@@ -5,12 +5,13 @@ Une bibliographie est  fournie .
 
 L'ideal est de consulter en detail le cours de l'ESIEE et de faire les différents QCM propoposés depuis
 
+== L'APPRENTISSAGE ==
 
 === LES RESEAUX === 
 
 jusque 
 
-— FIN QCM —
+— FIN PROGRAMME QCM —
 
 
 
