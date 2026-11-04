@@ -9,24 +9,13 @@
 
 ## 2. Question 2
 
-On s’intéresse à l’exemple suivant : [Exemple de détection d'objets avec TensorFlow Hub]([[https://colab.research.google.com/github/fabricejumel/5ETI20252026-DEEPLEARNING-/blob/main/tf2_object_detection_CPE.ipynb](https://github.com/fabricejumel/5ETI_5IRC_20262027-DEEPLEARNING/blob/main/detection_CPE.ipynb)](https://github.com/fabricejumel/5ETI_5IRC_20262027-DEEPLEARNING/blob/main/detection_CPE.ipynb)). 
-> [!TIP]
->Commencer par changer le modele d'exécution pour utiliser un GPU, sinon vous risquez de perdre du temps
-
-> [!CAUTION]
-> On retrograde une version numpy 
-Vous avez le message suivant : WARNING: The following packages were previously imported in this runtime:
-  [numpy]
-You must restart the runtime in order to use newly installed versions.
-> 
->**Relancer le runtime en cliquant sur le bouton proposé puis relancer l'ensemble**
-
+On s’intéresse à l’exemple suivant : [Exemple de détection d'objets avec TensorFlow Hub](https://github.com/fabricejumel/5ETI_5IRC_20262027-DEEPLEARNING/blob/main/detection_CPE.ipynb).
 
 
 
  2.a Quelles sont les classes reconnues par le réseau ?
 
- 2.b Quelle partie du code correspond au chargement du modèle de réseau ? Quels sont les modèles proposés ?
+ 2.b Quelle partie du code correspond au chargement du modèle de réseau ? Quels sont les modèles proposés , Pouvez vous facilement en trouver d'autres .
 
  2.c Quelles sont les structures des modèles de réseaux sous-jacents ?
 
@@ -73,5 +62,7 @@ Regardez ce que propose https://kitt.tools/ai/image-recognition
 5.e À quoi d'autre peuvent servir ces modèles ?
 
 5.f Peut-on utiliser ces modèles pour générer des bounding boxes comme nous l’avions fait précédemment ? Si oui, comment procéder ?
+
+5.g Essayer de tester ce type de modèles sur google collab.
  
  
