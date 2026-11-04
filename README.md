@@ -7,7 +7,7 @@
 
 
 > [!IMPORTANT]
-> Le rendu se fera  sous forme d'un git sous gitlab en monome . 
+> Le rendu se fera  sous forme d'un git sous gitlab en monome ou binome . 
 
 > [!CAUTION]
 > Le rendu doit être finalisé pour le vendredi 8 décembre 2026 22H00. il es demandé de se limiter à l'usage de copilot microsoft lié à votre compte étudiant
